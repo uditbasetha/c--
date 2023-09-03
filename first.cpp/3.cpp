@@ -18,16 +18,47 @@ int main()
 
     // new code
 
-    int age;
-    cin >> age;
-    cout << "enter your age=" << endl;
+    // int age;
+    // cin >> age;
+    // cout << "enter your age=" << endl;
 
-    if (age < 18)
+    // if (age < 18)
+    // {
+    //     cout << "you are not eligiable for vote" << endl;
+    // }
+    // else
+    // {
+    //     cout << "you are eligiable for voting" << endl;
+    // }
+
+    // new code
+
+    //     int marks;
+    //     cin >> marks;
+    //     cout << "enter marks=" << marks << endl;
+
+    //     if (marks >= 90)
+    //     {
+    //         cout << "a grade";
+    //     }
+    //     else if (marks >= 80)
+    //     {
+    //         cout << "b grade";
+    //     }
+    //     else if (marks >= 60)
+    //     {
+    //         cout << "c grade";
+    //     }
+    //     else
+    //     {
+    //         cout << "d grade";
+    //     }
+
+    // new code
+    int main()
     {
-        cout << "you are not eligiable for vote" << endl;
-    }
-    else
-    {
-        cout << "you are eligiable for voting" << endl;
+
+        int money;
+        cout << "enter your money" <<
     }
 }
