@@ -5,7 +5,7 @@ int main()
 
     int num;
     cin >> num;
-    cout << "number is :" << num << endl;
+    cout << "number dalo :" << num << endl;
 
     if (num > 0)
     {

@@ -55,10 +55,10 @@ int main()
     //     }
 
     // new code
-    int main()
-    {
+    // int main()
+    // {
 
-        int money;
-        cout << "enter your money" <<
-    }
+    //     int money;
+    //     cout << "enter your money" <<
+    // }
 }
