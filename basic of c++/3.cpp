@@ -18,18 +18,18 @@ int main()
 
     // new code
 
-    // int age;
-    // cin >> age;
-    // cout << "enter your age=" << endl;
+    int age;
+    cin >> age;
+    cout << "enter your age=" << endl;
 
-    // if (age < 18)
-    // {
-    //     cout << "you are not eligiable for vote" << endl;
-    // }
-    // else
-    // {
-    //     cout << "you are eligiable for voting" << endl;
-    // }
+    if (age < 18)
+    {
+        cout << "you are not eligiable for vote" << endl;
+    }
+    else
+    {
+        cout << "you are eligiable for voting" << endl;
+    }
 
     // new code
 
